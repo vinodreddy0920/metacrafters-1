@@ -4,7 +4,7 @@ Create a Token
 
 ## Description
 
-To create a token that provides Mint and Burn
+To create a token that provides Mint and Burn capabilities
 
 ## Getting Started
 
